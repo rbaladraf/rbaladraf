@@ -1,11 +1,17 @@
-![Profile views](https://komarev.com/ghpvc/?username=rbaladraf&color=blueviolet&style=flat-square&label=Profile+views)
+<div align="center">
 
-# Hi, I'm Rais 👋
+<img src="https://komarev.com/ghpvc/?username=rbaladraf&color=blueviolet&style=flat-square&label=Profile+views" alt="Profile views" />
 
-### Solutions Architect & Full-Stack Developer · ERP / Python / Applied ML 🏗️
+<h1>Hi, I'm Rais 👋</h1>
 
-Building production-grade business systems for retail, FMCG and distribution —
-where the hard part is never the code, it's the process behind it. ⚙️
+<h3>Solutions Architect &amp; Full-Stack Developer · ERP / Python / Applied ML 🏗️</h3>
+
+<p>
+Building production-grade business systems for retail, FMCG and distribution —<br />
+where the hard part is never the code, it's the process behind it.
+</p>
+
+</div>
 
 ---
 
