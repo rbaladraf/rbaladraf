@@ -28,6 +28,10 @@ where the hard part is never the code, it's the process behind it.
 
 ### 📦 Projects
 
+**People Counting Engine** — real-time occupancy counting from live CCTV feeds.
+TensorRT inference over RTSP streams, tuned across a GPU migration (GTX 1650 → RTX 5060 /
+Blackwell sm_120) on a CUDA 12.8 · TRT 10.8 stack. Production-deployed.
+
 **CBM Measurement Assistant** — automated carton dimensioning from a single photo.
 YOLO segmentation, ArUco-based calibration and perspective correction on a controlled mat.
 Replaces manual tape-measure workflows in inbound logistics.
